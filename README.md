@@ -19,7 +19,7 @@ Analyze retail sales data to identify trends, top-performing products, and busin
 - Created visualizations to understand trends
 
 ## 📷 Visualizations
-chart1_monthly_trend.png
+(chart1_monthly_trend.png)
 
 ## 🚀 Conclusion
 This project demonstrates how data analysis can help businesses make better decisions using real sales data.
